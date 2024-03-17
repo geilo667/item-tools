@@ -7,7 +7,7 @@
   ],
   "key": {
     "#": {
-      "item": "minecraft:*"
+      "item": "minecraft:barrier"
     },
     "/": {
       "item": "minecraft:stick"
@@ -16,8 +16,8 @@
   "result": {
     "id": "minecraft:diamond_pickaxe",
     "components": {
-      "minecraft:custom_model_data": !,
-      "minecraft:custom_name": "[{'text':'- Pickaxe'}]"
+      "minecraft:custom_model_data": 1,
+      "minecraft:custom_name": "[{'text':'Barrier Pickaxe','color':light_purple,'italic':false}]"
     }
   }
 }
