@@ -1,0 +1,23 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "###",
+    " / ",
+    " / "
+  ],
+  "key": {
+    "#": {
+      "item": "minecraft:target"
+    },
+    "/": {
+      "item": "minecraft:stick"
+    }
+  },
+  "result": {
+    "id": "minecraft:wooden_pickaxe",
+    "components": {
+      "minecraft:custom_model_data": 1,
+      "minecraft:custom_name": "[{'text':'Target Pickaxe','italic':false}]"
+    }
+  }
+}

@@ -1,0 +1,23 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "###",
+        " / ",
+        " / "
+    ],
+    "key": {
+        "#": {
+            "item": "minecraft:waxed_copper_bulb"
+        },
+        "/": {
+            "item": "minecraft:stick"
+        }
+    },
+    "result": {
+        "id": "minecraft:diamond_pickaxe",
+        "components": {
+            "minecraft:custom_model_data": 1,
+            "minecraft:custom_name": "[{'text':'waxed_copper_bulb Pickaxe','italic':false}]"
+        }
+    }
+}
