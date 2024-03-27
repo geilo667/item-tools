@@ -17,7 +17,7 @@
     "id": "minecraft:diamond_pickaxe",
     "components": {
       "minecraft:custom_model_data": 1,
-      "minecraft:custom_name": "[{'text':'Barrier Test','color':light_purple,'italic':false}]"
+      "minecraft:custom_name": "[{'text':'Barrier Pickaxe','color':light_purple,'italic':false}]"
     }
   }
 }
